@@ -35,5 +35,5 @@ exe = EXE(
     target_arch=None,
     codesign_identity=None,
     entitlements_file=None,
-    icon=['c:\\Users\\User\\Downloads\\realistischer-weihnachtsbaum-mit-stern-auf-die-oberseite_23-2148321160.avif'],
+    icon=['c:\\Users\\User\\Downloads\\ein-wunderschoen-geschmueckter-weihnachtsbaum_632498-26091.avif'],
 )
